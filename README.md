@@ -1,7 +1,7 @@
 # Machine_Learning_Final_Assignment
 Introducing the learning problem A corpus data (labeled database) of stories (corpus labeled, i.e. includes target values). Each story has a tag • 'm –' for writer (male) • 'f' - for a female writer. We build a classification model whose function is to classify the gender of a narrative paragraph as above.
 
-## Text Classification Preprocessing and Model Evaluation
+# Text Classification Preprocessing and Model Evaluation
 This repository contains code for a text classification assignment involving preprocessing text data, training machine learning models, and evaluating their performance using F1 scores. The goal of the assignment is to build a pipeline that takes raw text data, preprocesses it, trains multiple classification models, and predicts the categories of test examples.
 
 # Assignment Steps
